@@ -15,6 +15,7 @@
         // Start the query
         conn.connect();
         InputStream stream = conn.getInputStream();
-        
+ 
+###Security   
  3. BasicAndroidKeystore
  	* 主要介绍非对称加密，生成keypair，给私钥签名加密以及校验，更详细的demo参见<http://blog.csdn.net/wangqiuyun/article/details/42143957>
